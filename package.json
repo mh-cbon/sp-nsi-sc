@@ -1,6 +1,6 @@
 {
   "name": "@mh-cbon/sp-nsi-sc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse service file used by nsi to consume windows sc",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,9 @@
     "public": "npm publish --access=public"
   },
   "keywords": [
-    "nsi", "service", "parser"
+    "nsi",
+    "service",
+    "parser"
   ],
   "author": "mh-cbon <mh-cbon@users.noreply.github.com>",
   "license": "MIT",
